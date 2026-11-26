@@ -78,8 +78,4 @@ This project provided hands-on experience in SQL-based data analysis and relatio
 
 ---
 
-<p align="center">
-  <b>⭐ If you find this project useful, feel free to star this repository!</b>
-  <br/>
-  <i>Learning • Exploring • Analyzing • Growing 🚀</i>
-</p>
+
