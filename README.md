@@ -63,18 +63,7 @@ This project focuses on exploring, querying, and analyzing structured data using
 
 This project provided hands-on experience in SQL-based data analysis and relational database management. By applying different SQL concepts and querying techniques, I strengthened my ability to retrieve, manipulate, and analyze data to generate meaningful insights.
 
-## 👨‍💻 About Me
 
-**Alanjerish A**
-
-🎓 BCA Graduate  
-📊 Aspiring Data Analyst  
-💡 Interested in SQL, Python, Excel, and Power BI.
-
-## 🔗 Connect With Me
-
-- 💼 LinkedIn: [Add your LinkedIn profile URL]
-- 🐙 GitHub: [Add your GitHub profile URL]
 
 ---
 
